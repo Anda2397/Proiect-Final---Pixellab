@@ -1,0 +1,15 @@
+$colorprimary: #b88e2f;
+
+.our-products h2 {
+  h2 {
+    font-size: 40px;
+    font-weight: 700;
+    text-align: center;
+    color: #3a3a3a;
+    line-height: 3rem;
+  }
+  .container-cards {
+    display: grid;
+    grid-column: 1fr 1fr 1fr 1fr;
+  }
+}
